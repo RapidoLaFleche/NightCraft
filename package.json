@@ -1,5 +1,5 @@
 {
-    "name": "Selvania-Launcher",
+    "name": "NightCraft",
     "preductname": "Selvania Launcher",
     "version": "2.0.7",
     "description": "Launcher Mincraft pour le serveur Selvania",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/RapidoLaFleche/NightCraft.git"
     }
 }
