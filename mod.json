@@ -1,0 +1,120 @@
+{
+    "mods": [
+        {
+            "name": "BetterPingDisplay-1.18.2-1.1.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/BetterPingDisplay-1.18.2-1.1.jar"
+        },
+        {
+            "name": "BetterThirdPerson-Forge-1.18.2-1.9.0.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/BetterThirdPerson-Forge-1.18.2-1.9.0.jar"
+        },
+        {
+            "name": "CreativeCore_FORGE_v2.6.17_mc1.18.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/CreativeCore_FORGE_v2.6.17_mc1.18.2.jar"
+        },
+        {
+            "name": "DungeonsArise-1.18.2-2.1.52-release.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/DungeonsArise-1.18.2-2.1.52-release.jar"
+        },
+        {
+            "name": "EpicFight-18.5.20.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/EpicFight-18.5.20.jar"
+        },
+        {
+            "name": "Forgematica-0.1.11-mc1.18.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/Forgematica-0.1.11-mc1.18.2.jar"
+        },
+        {
+            "name": "MaFgLib-0.1.14-mc1.18.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/MaFgLib-0.1.14-mc1.18.2.jar"
+        },
+        {
+            "name": "WeaponsOfMiracles-18.1.7.37.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/WeaponsOfMiracles-18.1.7.37.jar"
+        },
+        {
+            "name": "[1.18.2][Forge] RPG-HUD-3.9.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/[1.18.2][Forge] RPG-HUD-3.9.2.jar"
+        },
+        {
+            "name": "balm-3.2.6.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/balm-3.2.6.jar"
+        },
+        {
+            "name": "betterleveling-1.18.2-0.6.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/betterleveling-1.18.2-0.6.2.jar"
+        },
+        {
+            "name": "curios-forge-1.18.2-5.0.9.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/curios-forge-1.18.2-5.0.9.2.jar"
+        },
+        {
+            "name": "dungeons_libraries-1.18.2-2.0.5-beta.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/dungeons_libraries-1.18.2-2.0.5-beta.jar"
+        },
+        {
+            "name": "dungeons_mobs-1.18.2-3.0.2-beta.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/dungeons_mobs-1.18.2-3.0.2-beta.jar"
+        },
+        {
+            "name": "dynamic-fps-3.7.6+minecraft-1.18.0-forge.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/dynamic-fps-3.7.6+minecraft-1.18.0-forge.jar"
+        },
+        {
+            "name": "easy_npc-forge-1.18.2-5.7.6.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/easy_npc-forge-1.18.2-5.7.6.jar"
+        },
+        {
+            "name": "entityculling-forge-1.6.1-mc1.18.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/entityculling-forge-1.6.1-mc1.18.2.jar"
+        },
+        {
+            "name": "geckolib-forge-1.18-3.0.57.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/geckolib-forge-1.18-3.0.57.jar"
+        },
+        {
+            "name": "jei-1.18.2-forge-10.2.1.1005.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/jei-1.18.2-forge-10.2.1.1005.jar"
+        },
+        {
+            "name": "lootbeams-1.18.1-release-july1722.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/lootbeams-1.18.1-release-july1722.jar"
+        },
+        {
+            "name": "oculus-mc1.18.2-1.6.4.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/oculus-mc1.18.2-1.6.4.jar"
+        },
+        {
+            "name": "rubidium-0.5.6.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/rubidium-0.5.6.jar"
+        },
+        {
+            "name": "smoothboot(reloaded)-mc1.18.2-0.0.4.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/smoothboot(reloaded)-mc1.18.2-0.0.4.jar"
+        },
+        {
+            "name": "torohealth-1.18-forge-2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/torohealth-1.18-forge-2.jar"
+        },
+        {
+            "name": "voicechat-forge-1.18.2-2.5.26.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/voicechat-forge-1.18.2-2.5.26.jar"
+        },
+        {
+            "name": "waystones-forge-1.18.2-10.2.2.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/waystones-forge-1.18.2-10.2.2.jar"
+        },
+        {
+            "name": "worldedit-mod-7.2.10.jar",
+            "url": "http://147.185.221.23:63988/webfolder/files/instances/NightCraft/mods/worldedit-mod-7.2.10.jar"
+        },
+        {
+            "name": "MoreCosmetics.jar",
+            "url": "https://nightcraft.fr/webfolder/download/MoreCosmetics-Forge-1.18.jar"
+        },
+        {
+            "name": "JourneyMap.jar",
+            "url": "https://nightcraft.fr/webfolder/download/journeymap-1.18.2-5.9.8-forge.jar"
+        }
+    ]
+}
